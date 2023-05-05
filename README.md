@@ -1,5 +1,8 @@
 # knights-travails
 
+Check out here: https://pe44a.github.io/knights-travails/
+How to try: go to console, paste knightMoves([0,0], [3,3]) in such format.
+
 This is a solution for the Knight's Travail Problem, which consists of finding a sequence of moves for a knight on a chessboard such that the knight visits every square exactly once.
 
 Function:
